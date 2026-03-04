@@ -63,6 +63,7 @@
 
 📌 **Mysterium-Liturgiae** — Liturgy & Church-related project  
 📌 **GIT** — Testes whith JS/NODE.js/SQLite3/Python/HTML+CSS
+
 📌 More projects coming soon 🚧
 
 ---
