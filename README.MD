@@ -62,7 +62,7 @@
 ## 🌐 Projects
 
 📌 **Mysterium-Liturgiae** — Liturgy & Church-related project  
-📌 **RFP40.github.io** — Personal site / GitHub Pages  
+📌 **GIT** — Testes whith JS/NODE.js/SQLite3/Python/HTML+CSS
 📌 More projects coming soon 🚧
 
 ---
