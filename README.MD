@@ -29,8 +29,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RFP40&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFP40&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RFP40&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RFP40&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RFP40&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -38,7 +46,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFP40&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RFP40&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RFP40&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,9 +69,9 @@
 
 ## 📫 Contact
 
-- 💼 GitHub: https://github.com/RFP40
-- 📸 IG: @rafmesqt_
-- ✉️ Email: rafamesto@gmail.com
+- 💼 GitHub: https://github.com/RFP40  
+- 📸 IG: @rafmesqt_  
+- ✉️ Email: rafamesto@gmail.com  
 
 ---
 
