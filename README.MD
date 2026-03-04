@@ -62,11 +62,11 @@
 ## 📫 Contact
 
 - 💼 GitHub: https://github.com/RFP40
-- 📸 IG: @seuinstagram (se quiser, troca depois)
-- ✉️ Email: seuemail@email.com
+- 📸 IG: @rafmesqt_
+- ✉️ Email: rafamesto@gmail.com
 
 ---
 
 <p align="center">
-  <i>“Whatever you do, work at it with all your heart.” — Colossians 3:23</i>
+  <i>“Duc in altum, et laxate retia vestra in capturam” — Lc 5,4</i>
 </p>
