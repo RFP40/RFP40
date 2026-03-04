@@ -43,14 +43,6 @@
 
 ---
 
-## 🐍 Snake eating my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RFP40/RFP40/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🌐 Projects
 
 📌 **Mysterium-Liturgiae** — Liturgy & Church-related project  
